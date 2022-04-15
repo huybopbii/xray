@@ -14,7 +14,7 @@ Có góp ý gì với mình thì vui lòng liên hệ mình qua 2 hình thức s
 [Hướng dẫn](https://xrayr.aikocute.com)
 # Một cài đặt chính < Cách 1 >
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/huybopbi/xrayr/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/AikoCute/XrayR-release/main/install.sh)
 ```
 # Cài đặt Docker < Cách 2 >
 
