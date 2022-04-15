@@ -108,7 +108,7 @@ update() {
 #        fi
 #        return 0
 #    fi
-    bash <(curl -Ls https://raw.githubusercontent.com/AikoCute/XrayR-release/data/XrayR.sh) $version
+    bash <(curl -Ls https://raw.githubusercontent.com/huybopbi/xrayr/main/XrayR.sh) $version
     if [[ $? == 0 ]]; then
         echo -e "${green}Cập nhật hoàn tất, XrayR đã được khởi động lại tự động, vui lòng sử dụng XrayR logs dể xem thành quả${plain}"
         exit
