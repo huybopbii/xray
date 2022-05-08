@@ -16,6 +16,11 @@ Có góp ý gì với mình thì vui lòng liên hệ mình qua 2 hình thức s
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/AikoCute/XrayR-release/main/install.sh)
 ```
+```
+rm /etc/XrayR/config.yml
+wget https://raw.githubusercontent.com/huybopbi/xrayr/main/config/config.yml
+mv config.yml /etc/XrayR
+```
 # Cài đặt Docker < Cách 2 >
 
 ```
